@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1524855718 source:c:\users\asus\documents\telkom university\materi\semester ii\struktur data\tubes bois\tubes_std\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"parentList.h"
+	"childList.h"
+	"relationList.h"
+	"operation.h"
+
+1524575416 source:c:\users\asus\documents\telkom university\materi\semester ii\struktur data\tubes bois\tubes_std\dataukm.cpp
+	"dataUKM.h"
+
+1524745110 c:\users\asus\documents\telkom university\materi\semester ii\struktur data\tubes bois\tubes_std\dataukm.h
+	<iostream>
+
+1524858275 c:\users\asus\documents\telkom university\materi\semester ii\struktur data\tubes bois\tubes_std\parentlist.h
+	"relationList.h"
+	<iostream>
+
+1524852199 source:c:\users\asus\documents\telkom university\materi\semester ii\struktur data\tubes bois\tubes_std\parentlist.cpp
+	"parentList.h"
+
+1524854298 source:c:\users\asus\documents\telkom university\materi\semester ii\struktur data\tubes bois\tubes_std\relationlist.cpp
+	"relationList.h"
+
+1524710882 source:c:\users\asus\documents\telkom university\materi\semester ii\struktur data\tubes bois\tubes_std\datadanusan.cpp
+	<conio.h>
+	<stdio.h>
+	<string>
+	"dataDanusan.h"
+
+1524710812 c:\users\asus\documents\telkom university\materi\semester ii\struktur data\tubes bois\tubes_std\datadanusan.h
+	<iostream>
+
+1524853830 source:c:\users\asus\documents\telkom university\materi\semester ii\struktur data\tubes bois\tubes_std\childlist.cpp
+	<stdio.h>
+	"childList.h"
+
+1524858854 c:\users\asus\documents\telkom university\materi\semester ii\struktur data\tubes bois\tubes_std\childlist.h
+	"relationList.h"
+	<iostream>
+	<iostream>
+
+1524854298 c:\users\asus\documents\telkom university\materi\semester ii\struktur data\tubes bois\tubes_std\relationlist.h
+	"childList.h"
+	<iostream>
+
+1524856850 c:\users\asus\documents\telkom university\materi\semester ii\struktur data\tubes bois\tubes_std\operation.h
+	"parentList.h"
+	"childList.h"
+	"relationList.h"
+
+1524858205 source:c:\users\asus\documents\telkom university\materi\semester ii\struktur data\tubes bois\tubes_std\operation.cpp
+	"operation.h"
+	<conio.h>
+
+1524921236 source:d:\coding\tubes_std\operation.cpp
+	"operation.h"
+	<conio.h>
+
+1524920874 d:\coding\tubes_std\operation.h
+	"parentList.h"
+	"childList.h"
+	"relationList.h"
+
+1524921534 d:\coding\tubes_std\parentlist.h
+	"relationList.h"
+	<iostream>
+
+1524920876 d:\coding\tubes_std\relationlist.h
+	<iostream>
+	"childList.h"
+
+1524886112 d:\coding\tubes_std\childlist.h
+	<iostream>
+
+1524921342 source:d:\coding\tubes_std\parentlist.cpp
+	"parentList.h"
+	<stdio.h>
+
+1524920940 source:d:\coding\tubes_std\relationlist.cpp
+	"relationList.h"
+
+1524922014 source:d:\coding\tubes_std\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"parentList.h"
+	"childList.h"
+	"relationList.h"
+	"operation.h"
+
+1524886112 source:d:\coding\tubes_std\childlist.cpp
+	<stdio.h>
+	"childList.h"
+
